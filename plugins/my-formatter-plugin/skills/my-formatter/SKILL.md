@@ -18,6 +18,7 @@ Given a block of text from the user, produce a version with:
    (`**IMPORTANT: ...**`). Leave every other line exactly as written.
 4. **Signature** - add this line at the very end, on its own line:
    `_Formatted with my-formatter_`
+5. **Timestamp** - add today's date on its own line after the signature.
 
 ## What this does not do
 
