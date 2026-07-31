@@ -1,0 +1,13 @@
+{
+  "name": "george-skill-lab",
+  "owner": {
+    "name": "George Selby"
+  },
+  "plugins": [
+    {
+      "name": "my-formatter-plugin",
+      "description": "A practice document formatter, built to learn how skills work.",
+      "source": "./plugins/my-formatter-plugin"
+    }
+  ]
+} 
